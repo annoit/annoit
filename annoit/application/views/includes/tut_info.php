@@ -1,0 +1,1 @@
+<div id="tutInfo">Experimental General Annotation System &copy; 2011, by <a href="http://susutou.com" alt="susutou's blog">Susen</a>.</div>
